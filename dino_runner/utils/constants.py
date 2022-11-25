@@ -71,3 +71,8 @@ HEART = pygame.image.load(os.path.join(IMG_DIR, 'Other/SmallHeart.png'))
 
 DEFAULT_TYPE = "default"
 SHIELD_TYPE = "shield"
+HAMMER_TYPE = "hammer"
+
+MUSIC = "dino_runner/assets/Music/Music.mp3"
+JUMP = "dino_runner/assets/Music/Jump.mp3"
+BENTIVI = "dino_runner/assets/Music/bentivi.mp3" 
